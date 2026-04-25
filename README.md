@@ -1,86 +1,135 @@
-# This is Andre
-<p>I am...</p>
-<a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Software+Quality+Analyst;Business+Intelligence;Data+Scientist;AI+Engineer"/></a>
+<h1 align="center">
+<b>Hi , I'm Felix Andre <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"></a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E3A8A&width=435&lines=Software+Quality+Analyst;Business+Intelligence;Data+Scientist;AI+Engineer"/>
+</p>
 
-## About Me
-* I have over ten years of experience in Marketing and Data Analytics across the construction and technology industries.
-* I specialize in aligning strategic business goals with technical solutions to drive revenue growth and customer satisfaction.
+¡Hola! Soy un Ingeniero QA con más de 2 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
+
+## Habilidades y Experiencia
+
+### Gestión de Proyectos 📈
+- **Jira**: Herramienta de seguimiento de proyectos y gestión de incidencias.
+
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+- **Azure DevOps**: Plataforma de desarrollo y entrega continua.
+  
+  [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
+- **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
+
+  [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
+<br>
+
+### Pruebas de API 🕵️
+- **Postman** - **SOAP**: Herramienta para pruebas de API.
+
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+  [![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=K6&logoColor=white)](https://k6.io/)
+
+### Bases de Datos 💻
+- **SQL Server**: Sistema de gestión de bases de datos relacionales.
+ [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/)
+- **Mongo DB**: Base de datos NoSQL orientada a documentos.
+ [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
+### Automatización de Pruebas 🤖
+- **Cypress**: Framework de automatización de pruebas de frontend.
+  
+  [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
+- **Playwright**: Framework de automatización de pruebas para navegadores.
+  
+  [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+- **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
+
+  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
+### CI/CD y Automatización de Pruebas 🚀
+- **Git**: Control de versiones y colaboración en equipo.
+- **Jenkins**: Automatización de la integración continua y despliegue continuo.
+- **Bitbucket**: Repositorio de código y gestión de proyectos.
+
+### Lenguajes de Programación 🆎
+
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
+  [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+  [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://www.typescriptlang.org/docs/)
+
+## Competencias Clave
+- **Liderazgo**: Capacidad para liderar equipos y proyectos de manera efectiva.
+- **Resolución de Problemas**: Habilidad para identificar y resolver problemas de manera eficiente.
+- **Adaptabilidad**: Me integro con éxito en diversos entornos corporativos.
+- **Trabajo en Equipo**: Colaboro eficazmente con equipos multidisciplinarios.
+- **Comunicación Asertiva**: Excelente capacidad para comunicar ideas y resultados de manera clara y efectiva.
+- **Gestión de Proyectos**: Experto en gestionar múltiples proyectos de forma simultánea.
+
+## Logros Destacados
+
+- Implementación de estrategias de pruebas que agilizan los procesos de calidad de software.
+- Planeacion de nuevas estrategias para la ejecuccion casos de prueba con indicadores.
 
 ## Tech Stack 
 
-![Python](https://img.shields.io/badge/-Python-9966ff?logo=python&logoColor=f1f1f1)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-9966ff?logo=pandas&logoColor=f1f1f1)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-9966ff?logo=numpy&logoColor=f1f1f1)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-9966ff?logo=matplotlib&logoColor=f1f1f1)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-9966ff?logo=seaborn&logoColor=f1f1f1)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-9966ff?logo=scikitlearn&logoColor=f1f1f1)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-9966ff?logo=tensorflow&logoColor=f1f1f1)&nbsp;
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-9966ff?logo=beautifulsoup&logoColor=f1f1f1)&nbsp;
-![Lanchain](https://img.shields.io/badge/-Langchain-9966ff?logo=langchain&logoColor=f1f1f1)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-9966ff?logo=openai&logoColor=f1f1f1)&nbsp;
-![Claude](https://img.shields.io/badge/-Claude-9966ff?logo=claude&logoColor=f1f1f1)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-9966ff?logo=mysql&logoColor=f1f1f1)&nbsp;
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-9966ff?logo=postgresql&logoColor=f1f1f1)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-9966ff?logo=googleanalytics&logoColor=f1f1f1)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-9966ff?logo=tableau&logoColor=f1f1f1)&nbsp;
-![Looker](https://img.shields.io/badge/-Looker-9966ff?logo=looker&logoColor=f1f1f1)&nbsp;
-![Google_Analytics](https://img.shields.io/badge/-Google_Analytics-9966ff?logo=googleanalytics&logoColor=f1f1f1)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-9966ff?logo=jupyter&logoColor=f1f1f1)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-9966ff?logo=anaconda&logoColor=f1f1f1)&nbsp;
-![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)&nbsp;
-![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)&nbsp;
-![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-9966ff?logo=googlecloud&logoColor=f1f1f1)&nbsp;
-![SAP](https://img.shields.io/badge/-SAP-9966ff?logo=sap&logoColor=f1f1f1)&nbsp;
-![Jira](https://badgen.net/badge/icon/Jira?icon=jira&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;
-![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;
-![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-9966ff?logo=apple&logoColor=f1f1f1)&nbsp;
-![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;
-
-<h3>👨‍💻 Languages</h3>
-
-<div style="display: flex; gap: 10px;">
-  <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-</div>
-
-<h3>📚 Frameworks</h3>
-
-<p >
-  <img style='height: 30px;' src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-
-</p>
-
-<h3>📚 Libraries</h3>
-
-<p >
-  <img style='height: 30px;' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-
-</p>
+![Pandas](https://img.shields.io/badge/-Pandas-9966ff?logo=pandas&logoColor=f1f1f1)
+![Numpy](https://img.shields.io/badge/-Numpy-9966ff?logo=numpy&logoColor=f1f1f1)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-9966ff?logo=tensorflow&logoColor=f1f1f1)
+![OpenAI](https://img.shields.io/badge/-OpenAI-9966ff?logo=openai&logoColor=f1f1f1)
+![Claude](https://img.shields.io/badge/-Claude-9966ff?logo=claude&logoColor=f1f1f1)
+![PowerBI](https://img.shields.io/badge/-PowerBI-9966ff?logo=googleanalytics&logoColor=f1f1f1)
+![Google_Analytics](https://img.shields.io/badge/-Google_Analytics-9966ff?logo=googleanalytics&logoColor=f1f1f1)
+![Jupyter](https://img.shields.io/badge/-Jupyter-9966ff?logo=jupyter&logoColor=f1f1f1)
+![Anaconda](https://img.shields.io/badge/-Anaconda-9966ff?logo=anaconda&logoColor=f1f1f1)
+![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)
+![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)
+![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-9966ff?logo=googlecloud&logoColor=f1f1f1)
+![SAP](https://img.shields.io/badge/-SAP-9966ff?logo=sap&logoColor=f1f1f1)
+![Jira](https://badgen.net/badge/icon/Jira?icon=jira&label=&color=9966ff&labelColor=9966ff&scale=1)
+![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)
+![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=9966ff&labelColor=9966ff&scale=1)
+![MacOS](https://img.shields.io/badge/-MacOS-9966ff?logo=apple&logoColor=f1f1f1)
+![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=9966ff&labelColor=9966ff&scale=1)
 
 ## GitHub Analytics
 
-#### Most used lenguages
-<a href="https://github.com/andrexifor">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrexifor&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>Github Stats</h4>
+        <a href="https://github.com/andrexifor">
+          <img height=200 src="https://github-readme-stats.vercel.app/api?username=andrexifor&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
+        </a>
+      </td>
+      <td align="center">
+        <h4>Streak Stats</h4>
+        <a href="https://github.com/andrexifor">
+          <img height=200 src="https://streak-stats.demolab.com/?user=andrexifor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### Github stats
-<a href="https://github.com/andrexifor">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=andrexifor&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
-</a>
-
-#### Streak Stats
-<a href="https://github.com/andrexifor">
-  <img height=250 align="center" src="https://streak-stats.demolab.com/?user=andrexifor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
-</a>
-
-## Social Media 
-
-<p align="center">
-<div align='center'>
-  <a href="https://twitter.com/andrexifor" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/felix-andre-lizano-porras/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>Most Used Languages</h4>
+        <a href="https://github.com/andrexifor">
+          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrexifor&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true"/>
+        </a>
+      </td>
+      <td align="center">
+        <h4>Connect with me</h4>
+        <a href="https://twitter.com/andrexifor" target="_blank">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+        </a>
+        <br/>
+        <a href="https://www.linkedin.com/in/felix-andre-lizano-porras/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
