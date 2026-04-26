@@ -91,13 +91,8 @@
 ![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=9966ff&labelColor=9966ff&scale=1)
 
 ### Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity--> 
-
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Trursday, August 29th, 2024, 1:03:43 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Analytics
 
