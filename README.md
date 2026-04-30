@@ -18,7 +18,6 @@
 - **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
 
   [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
-<br>
 
 ### Pruebas de API 🕵️
 - **Postman** - **SOAP**: Herramienta para pruebas de API.
