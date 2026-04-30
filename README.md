@@ -13,16 +13,13 @@
   [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/) [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 
 ### Pruebas de API 🕵️
-- **Postman** - **SOAP**: Herramienta para pruebas de API.
 
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   [![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=K6&logoColor=white)](https://k6.io/)
 
 ### Bases de Datos 💻
-- **SQL Server**: Sistema de gestión de bases de datos relacionales.
- [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/)
-- **Mongo DB**: Base de datos NoSQL orientada a documentos.
- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
+ [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### Automatización de Pruebas 🤖
 - **Cypress**: Framework de automatización de pruebas de frontend.
