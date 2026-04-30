@@ -1,7 +1,7 @@
 <h1 align="center">
 <b>Hi , I'm Felix Andre <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"></a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E3A8A&width=435&lines=Software+Quality+Analyst;Business+Intelligence;Data+Scientist;AI+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E3A8A&width=435&lines=Software+Quality+Analyst;Data+Scientist;AI+Engineer"/>
 </p>
 
 ¡Hola! Soy un Ingeniero QA con más de 2 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
