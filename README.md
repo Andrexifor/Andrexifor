@@ -10,11 +10,7 @@
 
 ### Gestión de Proyectos 📈
 
-  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-  
-  [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
-
-  [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/) [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 
 ### Pruebas de API 🕵️
 - **Postman** - **SOAP**: Herramienta para pruebas de API.
