@@ -22,15 +22,8 @@
  [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### Automatización de Pruebas 🤖
-- **Cypress**: Framework de automatización de pruebas de frontend.
-  
-  [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
-- **Playwright**: Framework de automatización de pruebas para navegadores.
-  
-  [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-- **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
-
-  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+ 
+ [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ### CI/CD y Automatización de Pruebas 🚀
 - **Git**: Control de versiones y colaboración en equipo.
