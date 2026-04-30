@@ -90,25 +90,6 @@ Last Updated: Wednesday, April 29th, 2026, 1:59:00 PM
   <table>
     <tr>
       <td align="center">
-        <h4>Github Stats</h4>
-        <a href="https://github.com/andrexifor">
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=andrexifor&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
-        </a>
-      </td>
-      <td align="center">
-        <h4>Streak Stats</h4>
-        <a href="https://github.com/andrexifor">
-          <img height=200 src="https://streak-stats.demolab.com/?user=andrexifor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
         <h4>Most Used Languages</h4>
         <a href="https://github.com/andrexifor">
           <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrexifor&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true"/>
