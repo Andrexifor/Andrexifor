@@ -9,13 +9,10 @@
 ## Habilidades y Experiencia
 
 ### Gestión de Proyectos 📈
-- **Jira**: Herramienta de seguimiento de proyectos y gestión de incidencias.
 
   [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-- **Azure DevOps**: Plataforma de desarrollo y entrega continua.
   
   [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
-- **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
 
   [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 
