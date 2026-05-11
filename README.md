@@ -1,22 +1,31 @@
 <h1 align="center">
-<b>Hi , I'm Felix Andre <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"></a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E3A8A&width=435&lines=Software+Quality+Analyst;Business+Intelligence;Data+Scientist;AI+Engineer"/>
+<b>¡Hola! Soy Felix Lizano <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"></a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<p align="center">
+Soy <b>QA Engineer</b> con más de 2 años de experiencia asegurando la calidad y seguridad del software en el sector <b>bancario</b>.
 </p>
 
-¡Hola! Soy un Ingeniero QA con más de 2 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
+<p align="center">
+Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsable de las pruebas funcionales y automatizadas para asegurar que las aplicaciones bancarias no solo funcionen, sino que sean <b>seguras y escalables</b>.
+</p>
+
+<p align="center">
+<b>¿Mi enfoque?</b> Combinar pruebas funcionales, automatización y seguridad para construir software bancario robusto.
+</p>
+
+## 🛠️ Tech Stack y Habilidades
+
+### 🧪 Automatización y Pruebas
+- Pruebas de API y automatización de pruebas funcionales.
+- Pruebas de carga y rendimiento con K6.
+- Automatización con Jenkins, Git y Bitbucket.
 
 ## Habilidades y Experiencia
 
 ### Gestión de Proyectos 📈
-- **Jira**: Herramienta de seguimiento de proyectos y gestión de incidencias.
 
   [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-- **Azure DevOps**: Plataforma de desarrollo y entrega continua.
-  
   [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
-- **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
-
   [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 <br>
 
@@ -100,25 +109,6 @@ Last Updated: Trursday, August 29th, 2024, 1:03:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Github Stats</h4>
-        <a href="https://github.com/andrexifor">
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=andrexifor&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
-        </a>
-      </td>
-      <td align="center">
-        <h4>Streak Stats</h4>
-        <a href="https://github.com/andrexifor">
-          <img height=200 src="https://streak-stats.demolab.com/?user=andrexifor&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <table>
