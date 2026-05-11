@@ -1,6 +1,7 @@
 <h1 align="center">
 <b>¡Hola! Soy Felix Lizano <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"></a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
 <p align="center">
 Soy <b>QA Engineer</b> con más de 2 años de experiencia asegurando la calidad y seguridad del software en el sector <b>bancario</b>.
 </p>
@@ -24,33 +25,20 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 
 ### Gestión de Proyectos 📈
 
-  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-  [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
-  [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
-<br>
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/) [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 
 ### Pruebas de API 🕵️
-- **Postman** - **SOAP**: Herramienta para pruebas de API.
 
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   [![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=K6&logoColor=white)](https://k6.io/)
 
 ### Bases de Datos 💻
-- **SQL Server**: Sistema de gestión de bases de datos relacionales.
- [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/)
-- **Mongo DB**: Base de datos NoSQL orientada a documentos.
- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
+ [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### Automatización de Pruebas 🤖
-- **Cypress**: Framework de automatización de pruebas de frontend.
-  
-  [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
-- **Playwright**: Framework de automatización de pruebas para navegadores.
-  
-  [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-- **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
-
-  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+ 
+ [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ### CI/CD y Automatización de Pruebas 🚀
 - **Git**: Control de versiones y colaboración en equipo.
@@ -100,12 +88,15 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 ![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=9966ff&labelColor=9966ff&scale=1)
 
 ### Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity--> 
-
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Andrexifor/apa_formato](https://github.com/Andrexifor/apa_formato)<br>
+2. ⬆️ Pushed undefined commit(s) to [Andrexifor/apa_formato](https://github.com/Andrexifor/apa_formato)<br>
+3. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+4. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+5. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Trursday, August 29th, 2024, 1:03:43 PM
+Last Updated: Monday, May 11th, 2026, 2:54:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Analytics
@@ -121,7 +112,7 @@ Last Updated: Trursday, August 29th, 2024, 1:03:43 PM
       </td>
       <td align="center">
         <h4>Connect with me</h4>
-        <a href="https://twitter.com/andrexifor" target="_blank">
+        <a href="https://x.com/123456781474587" target="_blank">
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
         </a>
         <br/>
