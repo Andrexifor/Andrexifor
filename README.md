@@ -46,7 +46,7 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### ⌨️ Lenguajes de Programación
-- Python, Java, JavaScript, PHP, TypeScript.
+- Java, Python, Kotlin, JavaScript, PHP, TypeScript.
   
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
   [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
@@ -54,13 +54,13 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
   [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://www.typescriptlang.org/docs/)
 
-## Competencias Clave
-- **Liderazgo**: Capacidad para liderar equipos y proyectos de manera efectiva.
-- **Resolución de Problemas**: Habilidad para identificar y resolver problemas de manera eficiente.
-- **Adaptabilidad**: Me integro con éxito en diversos entornos corporativos.
-- **Trabajo en Equipo**: Colaboro eficazmente con equipos multidisciplinarios.
-- **Comunicación Asertiva**: Excelente capacidad para comunicar ideas y resultados de manera clara y efectiva.
-- **Gestión de Proyectos**: Experto en gestionar múltiples proyectos de forma simultánea.
+## 🤝 Competencias Clave
+
+- **Orientación a Resultados:** Enfoque en la mejora continua y la entrega de valor al negocio.
+- **Resolución de Problemas:** Habilidad para identificar y resolver incidencias complejas en sistemas financieros.
+- **Trabajo en Equipo:** Colaboración estrecha con desarrollo, producto y negocio en entornos ágiles.
+- **Comunicación Asertiva:** Capacidad para traducir hallazgos técnicos a stakeholders no técnicos.
+- **Adaptabilidad:** Experiencia integrando diversos entornos corporativos y tecnologías.
 
 ## 🎯 Logros Clave en Scotiabank
 
@@ -68,26 +68,21 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 - Mejora notable en tiempos de entrega al integrar pruebas en pipelines CI/CD.
 - Implementación de nuevas estrategias de ejecución de casos de prueba con indicadores.
 
-## Tech Stack 
+## 🚀 Proyección e Intereses (Data & IA)
 
-![Pandas](https://img.shields.io/badge/-Pandas-9966ff?logo=pandas&logoColor=f1f1f1)
-![Numpy](https://img.shields.io/badge/-Numpy-9966ff?logo=numpy&logoColor=f1f1f1)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-9966ff?logo=tensorflow&logoColor=f1f1f1)
-![OpenAI](https://img.shields.io/badge/-OpenAI-9966ff?logo=openai&logoColor=f1f1f1)
-![Claude](https://img.shields.io/badge/-Claude-9966ff?logo=claude&logoColor=f1f1f1)
-![PowerBI](https://img.shields.io/badge/-PowerBI-9966ff?logo=googleanalytics&logoColor=f1f1f1)
-![Google_Analytics](https://img.shields.io/badge/-Google_Analytics-9966ff?logo=googleanalytics&logoColor=f1f1f1)
-![Jupyter](https://img.shields.io/badge/-Jupyter-9966ff?logo=jupyter&logoColor=f1f1f1)
-![Anaconda](https://img.shields.io/badge/-Anaconda-9966ff?logo=anaconda&logoColor=f1f1f1)
-![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)
-![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)
-![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-9966ff?logo=googlecloud&logoColor=f1f1f1)
-![SAP](https://img.shields.io/badge/-SAP-9966ff?logo=sap&logoColor=f1f1f1)
-![Jira](https://badgen.net/badge/icon/Jira?icon=jira&label=&color=9966ff&labelColor=9966ff&scale=1)
-![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)
-![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=9966ff&labelColor=9966ff&scale=1)
-![MacOS](https://img.shields.io/badge/-MacOS-9966ff?logo=apple&logoColor=f1f1f1)
-![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label=&color=9966ff&labelColor=9966ff&scale=1)
+  ![Pandas](https://img.shields.io/badge/Pandas-7F52FF?style=for-the-badge&logo=Pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-7F52FF?style=for-the-badge&logo=Numpy&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-7F52FF?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-7F52FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=Claude&logoColor=white)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-7F52FF?style=for-the-badge&logo=PowerBI&logoColor=white)
+  ![Google_Analytics](https://img.shields.io/badge/Google_Analytics-7F52FF?style=for-the-badge&logo=Google_Analytics&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-7F52FF?style=for-the-badge&logo=Jupyter&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-7F52FF?style=for-the-badge&logo=Anaconda&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-7F52FF?style=for-the-badge&logo=Jira&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-7F52FF?style=for-the-badge&logo=VSCode&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/Terminal-7F52FF?style=for-the-badge&logo=Terminal&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-7F52FF?style=for-the-badge&logo=Git&logoColor=white)
 
 ### Actividad reciente
 <!--RECENT_ACTIVITY:start-->
