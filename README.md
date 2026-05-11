@@ -21,32 +21,33 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 - Pruebas de carga y rendimiento con K6.
 - Automatización con Jenkins, Git y Bitbucket.
 
-## Habilidades y Experiencia
-
-### Gestión de Proyectos 📈
-
-  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/) [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
-
-### Pruebas de API 🕵️
-
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   [![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=K6&logoColor=white)](https://k6.io/)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
+  [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/) 
+  [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
+  [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/) 
+  [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/) 
+  [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+  [![GitHub](https://img.shields.io/badge/Github-909692?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Andrexifor)
+  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+  [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/)
+### 🏦 Banca y Core Bancario
+- Pruebas funcionales y de regresión sobre sistemas core **AS400 / Bantotal**, asegurando integridad transaccional.
+- Conocimiento del negocio bancario y estándares de calidad del sector financiero.
 
-### Bases de Datos 💻
+### 🛡️ Seguridad
+- Implemento pruebas basadas en **OWASP Top 10** para blindar APIs y aplicaciones financieras.
 
- [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
-
-### Automatización de Pruebas 🤖
+### 🗃️ Bases de Datos
+- MySQL, SQL Server, PostgreSQL, Oracle y MongoDB.
  
- [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+  [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/) 
+  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
-### CI/CD y Automatización de Pruebas 🚀
-- **Git**: Control de versiones y colaboración en equipo.
-- **Jenkins**: Automatización de la integración continua y despliegue continuo.
-- **Bitbucket**: Repositorio de código y gestión de proyectos.
-
-### Lenguajes de Programación 🆎
-
+### ⌨️ Lenguajes de Programación
+- Python, Java, JavaScript, PHP, TypeScript.
+  
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
   [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
   [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -61,10 +62,11 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 - **Comunicación Asertiva**: Excelente capacidad para comunicar ideas y resultados de manera clara y efectiva.
 - **Gestión de Proyectos**: Experto en gestionar múltiples proyectos de forma simultánea.
 
-## Logros Destacados
+## 🎯 Logros Clave en Scotiabank
 
-- Implementación de estrategias de pruebas que agilizan los procesos de calidad de software.
-- Planeacion de nuevas estrategias para la ejecuccion casos de prueba con indicadores.
+- Reducción significativa de incidencias en producción con automatización estratégica.
+- Mejora notable en tiempos de entrega al integrar pruebas en pipelines CI/CD.
+- Implementación de nuevas estrategias de ejecución de casos de prueba con indicadores.
 
 ## Tech Stack 
 
@@ -99,27 +101,13 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 Last Updated: Monday, May 11th, 2026, 2:54:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-## GitHub Analytics
+## 📫 Contacto
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Most Used Languages</h4>
-        <a href="https://github.com/andrexifor">
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrexifor&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true"/>
-        </a>
-      </td>
-      <td align="center">
-        <h4>Connect with me</h4>
-        <a href="https://x.com/123456781474587" target="_blank">
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/felix-andre-lizano-porras/" target="_blank">
+Abierto a oportunidades como **QA Automation Engineer Senior**, **Product Owner Junior** o **Software Security Specialist** en banca y fintech. Escríbeme por [LinkedIn](https://www.linkedin.com/in/felix-andre-lizano-porras/).
+
+<a href="https://www.linkedin.com/in/felix-andre-lizano-porras/" target="_blank">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://x.com/123456781474587" target="_blank">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+        </a>
