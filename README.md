@@ -86,14 +86,14 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 
 ### Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Andrexifor/apa_formato](https://github.com/Andrexifor/apa_formato)<br>
-2. ⬆️ Pushed undefined commit(s) to [Andrexifor/apa_formato](https://github.com/Andrexifor/apa_formato)<br>
+1. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+2. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
 3. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
 4. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
-5. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+5. ⬆️ Pushed undefined commit(s) to [Andrexifor/apa_formato](https://github.com/Andrexifor/apa_formato)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 2:54:12 PM
+Last Updated: Tuesday, May 12th, 2026, 3:23:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Contacto
