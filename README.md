@@ -86,14 +86,14 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 
 ### Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Andrexifor/selenium_auto](https://github.com/Andrexifor/selenium_auto)<br>
+1. ⬆️ Pushed undefined commit(s) to [Andrexifor/Otro-GPT](https://github.com/Andrexifor/Otro-GPT)<br>
 2. ⬆️ Pushed undefined commit(s) to [Andrexifor/selenium_auto](https://github.com/Andrexifor/selenium_auto)<br>
-3. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
+3. ⬆️ Pushed undefined commit(s) to [Andrexifor/selenium_auto](https://github.com/Andrexifor/selenium_auto)<br>
 4. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
 5. ⬆️ Pushed undefined commit(s) to [Andrexifor/Andrexifor](https://github.com/Andrexifor/Andrexifor)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 3rd, 2026, 4:50:15 PM
+Last Updated: Thursday, June 4th, 2026, 4:05:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Contacto
