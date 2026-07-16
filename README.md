@@ -86,10 +86,9 @@ Actualmente colaboro con <b>Scotiabank</b> desde Valtx Perú, donde soy responsa
 
 ### Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 15th, 2026, 1:43:36 PM
+Last Updated: Thursday, July 16th, 2026, 2:37:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📫 Contacto
